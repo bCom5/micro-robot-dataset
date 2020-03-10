@@ -1,0 +1,23 @@
+outdoors:
+n01774750: tarantula: tarantula
+n01774384: black_widow: black widow, Latrodectus mactans
+n12267677: acorn: acorn
+n03804744: nail: nail
+n01644900: frog: tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+n07734744: mushroom: mushroom
+n02802426: basketball: basketball
+n02165456: ladybug: ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+n01944390: snail: snail
+n02206856: bee: bee
+
+indoors:
+n03983396: pop_bottle: pop bottle, soda bottle
+n04254777: sock: sock
+n07753592: banana: banana
+n04398044: teapot: teapot
+n02948072: candle: candle, taper, wax light
+n03584254: iPod: iPod
+n04133789: sandal: sandal
+n03937543: pill_bottle: pill bottle
+n03255030: dumbbell: dumbbell
+n04376876: syringe: syringe
