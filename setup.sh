@@ -22,8 +22,8 @@ cp -r dataset/combined/train/sock dataset/micro/train/sock
 cp -r dataset/combined/test/sandal dataset/micro/test/sandal
 cp -r dataset/combined/train/sandal dataset/micro/train/sandal
 # 3
-cp -r dataset/combined/test/pill_bottle dataset/micro/test/pill_bottle
-cp -r dataset/combined/train/pill_bottle dataset/micro/train/pill_bottle
+cp -r dataset/combined/test/frog dataset/micro/test/frog
+cp -r dataset/combined/train/frog dataset/micro/train/frog
 # 4
 cp -r dataset/combined/test/nail dataset/micro/test/nail
 cp -r dataset/combined/train/nail dataset/micro/train/nail
@@ -37,9 +37,10 @@ cp -r dataset/combined/train/mushroom dataset/micro/train/mushroom
 cp -r dataset/combined/test/ladybug dataset/micro/test/ladybug
 cp -r dataset/combined/train/ladybug dataset/micro/train/ladybug
 # 8
-cp -r dataset/combined/test/snail dataset/micro/test/snail
-cp -r dataset/combined/train/snail dataset/micro/train/snail
+cp -r dataset/combined/test/black_widow dataset/micro/test/black_widow
+cp -r dataset/combined/train/black_widow dataset/micro/train/black_widow
 # 9
 cp -r dataset/combined/test/bee dataset/micro/test/bee
 cp -r dataset/combined/train/bee dataset/micro/train/bee
 echo "==> Micro dataset complete"
+
